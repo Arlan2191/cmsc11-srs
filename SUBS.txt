@@ -1,0 +1,6 @@
+11,CMSC11,Introduction to Computer Science
+21,CMSC21,Fundamentals of Programming
+42,CMSC142,Design and Analysis of Algorithms
+12,CMSC21,Introduction to Data Structure
+11,CMSC11,Introduction to Computer Science
+47,CMSC11,Machine Learning
