@@ -1,5 +1,5 @@
 # cmsc11-srs
-This is just a simple C implementation of a Student Registration System using only stdio.h as header with my own defined functions and structs. This is a simple project I would like to share to everyone.
+This is just a simple C implementation of a Student Registration System using only stdio.h as header with my own defined functions and structs. This is a simple project I would like to share to everyone. There are sample .txt files for the Reading Function, SUBS.txt for the subject record, and SRS.txt for the student record.
 
 Defined Structs:
 Subject - includes the subject ID, subject code, and subject title
